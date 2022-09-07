@@ -13,7 +13,7 @@ int main() {
 	 
 float Mile2M(float mile){
 	float r=0;
-	r=mile*1609;
+	r=mile*1.609;
 	metre = r*1000;
 	
 	return metre;
